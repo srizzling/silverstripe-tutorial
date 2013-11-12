@@ -8,7 +8,7 @@ $databaseConfig = array(
 	"type" => 'MySQLDatabase',
 	"server" => 'localhost',
 	"username" => 'root',
-	"password" => '',
+	"password" => 'sriram123',
 	"database" => 'SS_mysite',
 	"path" => '',
 );
