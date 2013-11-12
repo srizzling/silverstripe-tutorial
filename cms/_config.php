@@ -22,3 +22,5 @@ CMSMenu::remove_menu_item('CMSPageHistoryController');
 CMSMenu::remove_menu_item('CMSPageReportsController');
 CMSMenu::remove_menu_item('CMSPageAddController');
 CMSMenu::remove_menu_item('CMSFileAddController');
+
+Requirements::set_combined_files_enabled(false);
